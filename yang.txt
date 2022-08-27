@@ -1,0 +1,18 @@
+(Learn YANG in 16 mins)
+https://ultraconfig.com.au/blog/learn-yang-full-tutorial-for-beginners/
+
+
+RFC 7950 - The YANG 1.1 Data Modeling Language:
+https://tools.ietf.org/html/rfc7950
+
+
+pyang GitHub:
+https://github.com/mbj4668/pyang
+
+
+IETF YANG Modules:
+http://www.netconfcentral.org/modulelist
+
+
+OpenConfig GitHub:
+https://github.com/openconfig/public
