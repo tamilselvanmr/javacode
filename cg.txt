@@ -1,0 +1,17 @@
+First, let us please understand, the question is an open-ended one with no binary or multiclass
+ answers, as “Analyst” in CG is a designation from the hierarchy than a role. Following being the 
+hierarchical structure:
+
+A3 - Associate
+A4 - Analyst
+A5 - Senior Analyst
+B1 - Associate Consultant
+B2 - Consultant
+C1 - Senior Consultant
+C2 - Manager
+D1 - Senior Manager
+D2 - Program Manager
+E1- Director
+So, whatever be your BU (Business Unit) / LoS (Line of Service), the designation remains the 
+same across the length and breadth of the org. In general, B.Tech graduates enter as Analysts 
+(previously Software Engineer).
